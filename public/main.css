@@ -1,0 +1,23 @@
+.form-productos{
+    width: 60%;
+    margin: 0 auto;
+}
+.productos-container{
+    width: 60%;
+    margin: 0 auto;
+}
+
+.img-thumbnail{
+    width: 100px;
+}
+.chat-container{
+    width: 60%;
+    margin: 0 auto;
+}
+.chat-container input{
+    margin-top: 10px;
+}
+.btn-chat{
+    display: flex;
+    justify-content: center;
+}
